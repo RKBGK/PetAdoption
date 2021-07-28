@@ -1,14 +1,34 @@
-.displayResults {
+.petco {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
   }
-  .btn,
-.card {
-  margin: 10px;
-}
+  
   .card {
-    margin: .10px;
+    margin: 10px;
     padding: 1px;
-    background: #fec
+    background:darkgreen
+  }
+
+  .btn{
+    margin: 10px;
+    padding: 1px;
+    background:brown;    
+  }
+
+  .card-title{
+background-color:greenyellow;
+  }
+  .card,
+  .btn{
+color:floralwhite
+  }
+
+  .card-title{
+    color: fuchsia;
+  }
+
+  .card-text{
+    margin:0px;
+    text-align: center;
   }

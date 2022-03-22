@@ -2,67 +2,67 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-  }
+}
 
-  .card-header {
+.card-header {
     height: 45px;
     width: 100%;
-  }
-  .card-title{
+}
+.card-title{
     background-color:rgb(14, 72, 90);
     text-align: center;
     color: floralwhite; 
-      }
+}
   
-  .card {
+.card {
     margin: 10px;
     padding: 1px;
     background:rgb(0, 77, 100)
-  }
+}
 
-  .btn {
+.btn {
     margin: 10px;
     padding: 1px;
     size: 30px;
     background:red;    
-  }
- .btn-Dog {
-  background:rgb(57, 125, 51);    
+ }
+.btn-Dog {
+    background:rgb(57, 125, 51);    
 }
- .btn-Cat {
-  background:#cd004b;  
+.btn-Cat {
+    background:#cd004b;  
 }
- .btn-Dino {
-  background:rgb(58, 159, 177);   
+.btn-Dino {
+    background:rgb(58, 159, 177);   
 }
 
 
-  .card,
-  .btn{
-color:floralwhite
-  }
+.card,
+.btn{
+    color:floralwhite
+}
 
-  .card-text{
+.card-text{
     margin:0px;
     text-align: center;
-  }
-  .cat-type {
+}
+.cat-type {
     background-color: #cd004b;
     height: 45px;
     text-align: center;
     color:floralwhite
-  }
+}
   
-  .dog-type {
+.dog-type {
     background-color:rgb(57, 125, 51);
     height: 45px;
     text-align: center;
     color:floralwhite
-  }
+}
   
-  .dino-type {
+.dino-type {
     background-color:rgb(58, 159, 177);
     height: 45px;
     text-align: center;
     color:floralwhite
-  }
+}

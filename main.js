@@ -64,13 +64,6 @@ const pets = [
     imageUrl: "https://i.pinimg.com/originals/1f/30/8c/1f308c9c108a384b91b39430cc7312e9.jpg"
   },
   {
-    name: "Chester",
-    color: "Red",
-    specialSkill: "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
-    type: "dog",
-    imageUrl: "http://1kjkdg1axrkd2g03cnboj761.wpengine.netdna-cdn.com/wp-content/uploads/2017/12/braydon-anderson-105552-e1512684107659.jpg"
-  },
-  {
     name: "Samantha",
     color: "Brown",
     specialSkill: "Always up for dessert.",

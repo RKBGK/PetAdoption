@@ -30,7 +30,7 @@
     background:rgb(57, 125, 51);    
 }
 .btn-Cat {
-    background:#cd004b;  
+    background:yellowgreen;  
 }
 .btn-Dino {
     background:rgb(58, 159, 177);   
@@ -47,7 +47,7 @@
     text-align: center;
 }
 .cat-type {
-    background-color: #cd004b;
+    background-color: yellowgreen;  
     height: 45px;
     text-align: center;
     color:floralwhite

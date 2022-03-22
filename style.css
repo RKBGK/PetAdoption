@@ -3,32 +3,66 @@
     flex-wrap: wrap;
     justify-content: center;
   }
+
+  .card-header {
+    height: 45px;
+    width: 100%;
+  }
+  .card-title{
+    background-color:rgb(14, 72, 90);
+    text-align: center;
+    color: floralwhite; 
+      }
   
   .card {
     margin: 10px;
     padding: 1px;
-    background:darkgreen
+    background:rgb(0, 77, 100)
   }
 
-  .btn{
+  .btn {
     margin: 10px;
     padding: 1px;
-    background:brown;    
+    size: 30px;
+    background:red;    
   }
+ .btn-Dog {
+  background:rgb(57, 125, 51);    
+}
+ .btn-Cat {
+  background:#cd004b;  
+}
+ .btn-Dino {
+  background:rgb(58, 159, 177);   
+}
 
-  .card-title{
-background-color:greenyellow;
-  }
+
   .card,
   .btn{
 color:floralwhite
   }
 
-  .card-title{
-    color: fuchsia;
-  }
-
   .card-text{
     margin:0px;
     text-align: center;
+  }
+  .cat-type {
+    background-color: #cd004b;
+    height: 45px;
+    text-align: center;
+    color:floralwhite
+  }
+  
+  .dog-type {
+    background-color:rgb(57, 125, 51);
+    height: 45px;
+    text-align: center;
+    color:floralwhite
+  }
+  
+  .dino-type {
+    background-color:rgb(58, 159, 177);
+    height: 45px;
+    text-align: center;
+    color:floralwhite
   }
